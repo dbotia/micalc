@@ -6,10 +6,8 @@ __Sonarqube__: [![Quality Gate](https://sonarcloud.io/api/badges/gate?key=micalc
 [![Technical Debt](https://sonarcloud.io/api/badges/measure?key=micacl&metric=sqale_debt_ratio)](https://sonarcloud.io/dashboard/index/micalc)
 [![Code Smells](https://sonarcloud.io/api/badges/measure?key=micalc&metric=code_smells)](https://sonarcloud.io/dashboard/index/micalc)
 [![Duplicated Lines Density](https://sonarcloud.io/api/badges/measure?key=micalc&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard/index/micalc)
-[![Coverage](https://sonarcloud.io/api/badges/measure?key=micalc&metric=coverage)](https://sonarcloud.io/dashboard/index/micalc)
 
-
-
+__Coveralls__: [![Coverage Status](https://coveralls.io/repos/github/dbotia/micalc/badge.svg?branch=master)](https://coveralls.io/github/dbotia/micalc?branch=master)
 
 Implementation of a Simple Calculator with the next operations:
 
