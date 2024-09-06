@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/dbotia/micalc#readme",
   "dependencies": {
-    "coveralls": "^3.0.0",
+    "coveralls": "^3.0.10",
     "save-dev": "^2.0.0"
   },
   "devDependencies": {
